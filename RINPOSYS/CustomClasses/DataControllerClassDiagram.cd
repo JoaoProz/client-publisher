@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.DataController">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>XIAAABCACAQIQAIAAEAAUAAEbUACAAgACAgANABAIAA=</HashCode>
+      <FileName>CustomClasses\DataController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ClearUIGridMetaTagsDel" />
+      <Field Name="configFilesMediator" />
+      <Field Name="dwspcMutex" />
+      <Field Name="mySQLMediator" />
+      <Field Name="readersMutex" />
+      <Field Name="RemoveFromUIGridMetaTagsDel" />
+      <Field Name="UpdateUIGridMetaTagsDel" />
+      <Field Name="UpdateUIGridTagsDel" />
+      <Field Name="WriteLog" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Devices" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFilesMediator" Collapsed="true">
+    <Position X="9.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAhAABCIAAAAAEECAAAAAAAQCAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFilesMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Threading.Mutex" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.DBConnectors.MySQLMediator" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEAAAAAAAAAAQAAACAAAAAACEACQBkAAAAA=</HashCode>
+      <FileName>CustomClasses\DBConnectors\MySQLMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.Device">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAEAAAIAAAQEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\Device.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Delegate Name="System.Action" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="System.Action&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="System.Action&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

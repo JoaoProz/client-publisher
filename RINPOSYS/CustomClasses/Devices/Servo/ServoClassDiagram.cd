@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.Devices.Servo.Servo">
+    <Position X="5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAEAAAAAIAAAAAAAAAAAEAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\Servo\Servo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.DeviceWithSerialPortControl">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYABAAAAAAAgAAAACAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\DeviceWithSerialPortControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

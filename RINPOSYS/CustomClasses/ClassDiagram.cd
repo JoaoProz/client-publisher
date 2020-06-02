@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.LocalizationAlgorithm" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AISAEAAAAAAAAAAAAAAAAAAAAAIEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Algorithm\LocalizationAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.MathematicalModel" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAAAACAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>CustomClasses\Algorithm\MathematicalModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.MathematicModelParameters" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CustomClasses\Algorithm\MathematicModelParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.DataController" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XIAAABCACAQIQAIAAEAAUAAEbUACAAgACAgANABAIAA=</HashCode>
+      <FileName>CustomClasses\DataController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.DBConnectors.MySQLMediator" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAEAAAAAAAAAAQAAACAAAAAACEACQBkAAAAA=</HashCode>
+      <FileName>CustomClasses\DBConnectors\MySQLMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.Device" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAEAAAIAAAQEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\Device.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.DeviceBaudRate" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAgAACAAAAAAEAAEABAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\DeviceBaudRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.DeviceWithSerialPortControl" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYABAAAAAAAgAAAACAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\DeviceWithSerialPortControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserCommands" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAIAAAAAAAAAAAAgAAAAAAgABAAACAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserException" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserLogMessages" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserLogMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserModule">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAEBAAAEACAAAIAAAAAAAABAAAAEQACCgAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.Servo.Servo">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAEAAAAAIAAAAAAAAAAAEAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\Servo\Servo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.Servo.ServoCommands" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADBAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\Servo\ServoCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReader">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYQCAAQQAAAABQAMAgAAAqAAAAAAAACAgYAASgAgAAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderInvCounter" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAEAAABAAAAAAAAAAAEAAAAAAQAAAAAAgAgAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReaderInvCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderInvParams" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIFgCAIAAAAAA4EIAgQAISgGAAAAACAAAABAECAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReaderInvParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderLogMessages" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAg=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReaderLogMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.ExcelInterop.ExcelMediator" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABOAAAIAAJCAYAAACBIIRAgokACYgIJgFCCACAA=</HashCode>
+      <FileName>CustomClasses\ExcelInterop\ExcelMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileDevices" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileDevices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileEPCs" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileEPCs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileMMParameters" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileMMParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileMySQL" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileMySQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileNotes" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFilesMediator" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAhAABCIAAAAAEECAAAAAAAQCAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFilesMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.Antenna" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAkAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\RFIDReads\Antenna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.AntennaRead" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\RFIDReads\AntennaRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.MetaTag" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAiIAAAAABQEAAAAAgACACAAEAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CustomClasses\RFIDReads\MetaTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.Tag" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAgAAkAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\RFIDReads\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.TagRead" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAgAAEAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\RFIDReads\TagRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.UI.UICollections" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\UI\UIStaticCollections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.ByteConversion" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\Utils\ByteConversion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.CustomRichTextBox" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Utils\CustomRichTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.EPCsComparer" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAABAAAEAgAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Utils\EPCsComparer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.FixedSizedQueue&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgCAEAAAAAAAAAAAAAAAAAIAAAAIAAAA=</HashCode>
+      <FileName>CustomClasses\Utils\FixedSizeQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.Position" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>CustomClasses\Utils\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Utils.RegionFrequencyConverter" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAQQAQA=</HashCode>
+      <FileName>CustomClasses\Utils\RegionFrequencyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.Form1" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//e3//FWlbWOqPtjfcb/JK+/ZeD+oH5qrz5wNz8nqvk=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.Program" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.Properties.Resources" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UHF.RWDev" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQACFCbBAjNhiBAABgGSIALIhBAIGIgMcEgsQIYQBzg=</HashCode>
+      <FileName>RWDev.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RINPOSYS.CustomClasses.Devices.DeviceInterfaces.IConnectable" Collapsed="true">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\DeviceInterfaces\IConnectable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserDirection" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

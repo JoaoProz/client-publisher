@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFilesMediator">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAhAABCIAAAAAEECAAAAAAAQCAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFilesMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileNotes">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileNotes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileMySQL">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileMySQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileMMParameters">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileMMParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileEPCs">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileEPCs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.IOFiles.ConfigFileDevices">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CustomClasses\IOFiles\ConfigFileDevices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

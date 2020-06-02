@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.LocalizationAlgorithm">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AISAEAAAAAAAAAAAAAAAAAAAAAIEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>CustomClasses\Algorithm\LocalizationAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.MathematicalModel">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAAAACAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>CustomClasses\Algorithm\MathematicalModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Algorithm.MathematicModelParameters">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CustomClasses\Algorithm\MathematicModelParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

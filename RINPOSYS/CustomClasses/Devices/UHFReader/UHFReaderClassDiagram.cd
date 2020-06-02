@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReader">
+    <Position X="3.75" Y="3.75" Width="1.75" />
+    <AssociationLine Name="InvParams" Type="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderInvParams" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="5.796" />
+        <Point X="5.625" Y="5.796" />
+        <Point X="5.625" Y="7.188" />
+        <Point X="9" Y="7.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AYQCAAQQAAAABQAMAgAAAqAAAAAAAACAgYAASgAgAAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReader.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="InvParams" />
+      <Property Name="RIC" />
+      <Property Name="Antenna" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="MetaTagsDictionary" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.Antenna">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAkAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomClasses\RFIDReads\Antenna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderInvParams">
+    <Position X="9" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IIFgCAIAAAAAA4EIAgQAISgGAAAAACAAAABAECAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReaderInvParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReaderInvCounter">
+    <Position X="6.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAEAAABAAAAAAAAAAAEAAAAAAQAAAAAAgAgAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReaderInvCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.Device">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAEAAAIAAAQEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\Device.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.RFIDReads.MetaTag">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAiIAAAAABQEAAAAAgACACAAEAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CustomClasses\RFIDReads\MetaTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

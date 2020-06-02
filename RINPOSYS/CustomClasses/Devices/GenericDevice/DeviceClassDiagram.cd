@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.Device">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAEAAAIAAAQEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\Device.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.GenericDevice.DeviceWithSerialPortControl" Collapsed="true">
+    <Position X="1.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYABAAAAAAAgAAAACAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>CustomClasses\Devices\GenericDevice\DeviceWithSerialPortControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.UHFReader.UHFReader" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYQCAAQQAAAABQAMAgAAAqAAAAAAAACAgYAASgAgAAA=</HashCode>
+      <FileName>CustomClasses\Devices\UHFReader\UHFReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.LaserModule.LaserModule" Collapsed="true">
+    <Position X="0.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAEBAAAEACAAAIAAAAAAAABAAAAEQAACAAA=</HashCode>
+      <FileName>CustomClasses\Devices\LaserModule\LaserModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RINPOSYS.CustomClasses.Devices.Servo.Servo" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAEAAAAAIAAAAAAAAAAAEAAQAAAAAA=</HashCode>
+      <FileName>CustomClasses\Devices\Servo\Servo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
